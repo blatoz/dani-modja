@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dani_modja:block/rainbowoporetextura",
+    "up": "dani_modja:block/rainbowoporetextura",
+    "north": "dani_modja:block/rainbowoporetextura",
+    "east": "dani_modja:block/rainbowoporetextura",
+    "south": "dani_modja:block/rainbowoporetextura",
+    "west": "dani_modja:block/rainbowoporetextura",
+    "particle": "dani_modja:block/rainbowoporetextura"
+  },
+  "render_type": "solid"
+}

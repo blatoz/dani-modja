@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "dani_modja:item/rainbowopingotsword_textura"
+  }
+}

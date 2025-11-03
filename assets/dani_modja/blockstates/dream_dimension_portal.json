@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "dani_modja:block/dream_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "dani_modja:block/dream_dimension_portal_ns"
+    }
+  }
+}

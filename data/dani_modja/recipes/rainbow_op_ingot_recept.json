@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dani_modja:rainbow_ingot"
+    }
+  },
+  "result": {
+    "item": "dani_modja:rainbow_op_ingot_block",
+    "count": 1
+  }
+}

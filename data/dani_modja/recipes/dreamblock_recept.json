@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dani_modja:dream_ingot"
+    }
+  },
+  "result": {
+    "item": "dani_modja:dream_block",
+    "count": 1
+  }
+}

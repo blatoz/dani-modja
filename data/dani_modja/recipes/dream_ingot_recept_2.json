@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "dani_modja:dream_ore"
+  },
+  "result": "dani_modja:dream_ingot"
+}

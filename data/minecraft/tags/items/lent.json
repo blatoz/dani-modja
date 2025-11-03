@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:gold_block",
+    "minecraft:apple",
+    "minecraft:iron_sword"
+  ]
+}

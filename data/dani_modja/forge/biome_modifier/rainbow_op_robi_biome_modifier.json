@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "dani_modja:dream_biom",
+  "spawners": {
+    "type": "dani_modja:rainbow_op_robi",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 8
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 90,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "dani_modja:dream_ore"
+  },
+  "result": "dani_modja:dream_ingot"
+}

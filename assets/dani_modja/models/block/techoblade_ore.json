@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dani_modja:block/techobladeore_textura",
+    "up": "dani_modja:block/techobladeore_textura",
+    "north": "dani_modja:block/techobladeore_textura",
+    "east": "dani_modja:block/techobladeore_textura",
+    "south": "dani_modja:block/techobladeore_textura",
+    "west": "dani_modja:block/techobladeore_textura",
+    "particle": "dani_modja:block/techobladeore_textura"
+  },
+  "render_type": "solid"
+}

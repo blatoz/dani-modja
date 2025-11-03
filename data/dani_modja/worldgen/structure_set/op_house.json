@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dani_modja:op_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 5,
+    "separation": 2,
+    "salt": 2097540014
+  }
+}

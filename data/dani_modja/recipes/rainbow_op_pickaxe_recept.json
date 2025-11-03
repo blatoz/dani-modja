@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "dani_modja:rainbow_ingot"
+    },
+    {
+      "item": "dani_modja:rainbow_ingot"
+    },
+    {
+      "item": "dani_modja:rainbow_ingot"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "dani_modja:rainbow_op_pickaxe",
+    "count": 1
+  }
+}

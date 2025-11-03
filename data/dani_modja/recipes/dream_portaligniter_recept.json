@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "dani_modja:dream_ingot"
+    },
+    "b": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "dani_modja:dream_dimension",
+    "count": 1
+  }
+}

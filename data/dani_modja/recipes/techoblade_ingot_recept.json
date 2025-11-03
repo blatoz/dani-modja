@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "dani_modja:techoblade_block"
+    }
+  },
+  "result": {
+    "item": "dani_modja:techoblade_ingot",
+    "count": 9
+  }
+}
